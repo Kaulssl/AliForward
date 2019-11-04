@@ -1,5 +1,5 @@
 # AliForward
-### useage:
+### usage:
 
     wget https://raw.githubusercontent.com/Kaulssl/AliForward/master/AliForward.sh && chmod +x AliForward.sh
     bash AliForward.sh [record_name]
